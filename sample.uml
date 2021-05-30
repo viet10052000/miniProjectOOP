@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>sample</OriginalElement>
+  <nodes>
+    <node x="50.0" y="149.451171875">sample.controllers3</node>
+    <node x="0.0" y="424.451171875">sample.resources</node>
+    <node x="122.30000000000004" y="9.451171875">sample.controllers2</node>
+    <node x="145.16041666666672" y="289.451171875">sample.controllers</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.controllers" target="sample.controllers">
+      <point x="69.0" y="15.0" />
+      <point x="306.1604166666667" y="369.451171875" />
+      <point x="95.16041666666672" y="369.451171875" />
+      <point x="95.16041666666672" y="293.201171875" />
+      <point x="-92.0" y="-11.25" />
+    </edge>
+    <edge source="sample.controllers" target="sample.controllers3">
+      <point x="-64.40000000000003" y="-15.0" />
+      <point x="172.76041666666669" y="269.451171875" />
+      <point x="167.33333333333331" y="269.451171875" />
+      <point x="21.333333333333314" y="15.0" />
+    </edge>
+    <edge source="sample.controllers3" target="sample.controllers3">
+      <point x="-21.333333333333343" y="15.0" />
+      <point x="124.66666666666666" y="229.451171875" />
+      <point x="0.0" y="229.451171875" />
+      <point x="0.0" y="153.201171875" />
+      <point x="-96.0" y="-11.25" />
+    </edge>
+    <edge source="sample.controllers2" target="sample.controllers2">
+      <point x="-28.799999999999997" y="15.0" />
+      <point x="189.50000000000006" y="89.451171875" />
+      <point x="72.30000000000004" y="89.451171875" />
+      <point x="72.30000000000004" y="13.201171875" />
+      <point x="-96.0" y="-11.25" />
+    </edge>
+    <edge source="sample.controllers" target="sample.controllers2">
+      <point x="64.4" y="-15.0" />
+      <point x="301.5604166666667" y="259.451171875" />
+      <point x="285.5" y="259.451171875" />
+      <point x="67.19999999999999" y="15.0" />
+    </edge>
+    <edge source="sample.controllers2" target="sample.controllers">
+      <point x="86.39999999999998" y="15.0" />
+      <point x="304.70000000000005" y="129.451171875" />
+      <point x="296.5" y="129.451171875" />
+      <point x="296.5" y="249.451171875" />
+      <point x="319.96041666666673" y="249.451171875" />
+      <point x="82.80000000000001" y="-15.0" />
+    </edge>
+    <edge source="sample.controllers3" target="sample.controllers2">
+      <point x="0.0" y="-15.0" />
+      <point x="146.0" y="129.451171875" />
+      <point x="208.70000000000005" y="129.451171875" />
+      <point x="-9.599999999999994" y="15.0" />
+    </edge>
+    <edge source="sample.controllers3" target="sample.controllers">
+      <point x="64.0" y="15.0" />
+      <point x="-27.600000000000023" y="-15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="96.0" y="127.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

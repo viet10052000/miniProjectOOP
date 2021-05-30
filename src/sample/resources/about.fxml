@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #3e3f39;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label layoutX="38.0" layoutY="64.0" prefHeight="110.0" prefWidth="546.0" text="        SALESMAN V1.0" textFill="WHITE" textOverrun="WORD_ELLIPSIS">
+            <font>
+                <Font name="System Bold Italic" size="46.0" />
+            </font>
+        </Label>
+        <Label layoutX="27.0" layoutY="186.0" prefHeight="47.0" prefWidth="222.0" text="Authors:" textFill="WHITE">
+            <font>
+                <Font name="System Italic" size="26.0" />
+            </font>
+        </Label>
+        <Label layoutX="27.0" layoutY="223.0" prefHeight="47.0" prefWidth="196.0" text="Nguyễn Xuân Nhất" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="20.0" />
+            </font>
+        </Label>
+        <Label layoutX="27.0" layoutY="253.0" prefHeight="47.0" prefWidth="196.0" text="Nguyễn Văn Hà" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="20.0" />
+            </font>
+        </Label>
+        <Label layoutX="27.0" layoutY="283.0" prefHeight="47.0" prefWidth="196.0" text="Nguyễn Công Việt" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="20.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

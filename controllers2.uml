@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>sample.controllers2</OriginalElement>
+  <nodes>
+    <node x="411.4387851731602" y="302.0">sample.controllers2.TSPUtils</node>
+    <node x="82.81006493506499" y="604.0">sample.controllers2.hillClimbingAlgorithm</node>
+    <node x="275.5637851731602" y="763.0">sample.controllers2.hillClimbingAlgorithmView</node>
+    <node x="267.85545183982686" y="0.0">sample.controllers2.TSPGene</node>
+    <node x="0.0" y="1253.0">sample.controllers2.hillClimbingAlgorithmController</node>
+    <node x="160.34577922077926" y="346.0">sample.controllers2.Route</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.controllers2.hillClimbingAlgorithmController" target="sample.controllers2.Route">
+      <point x="-124.28571428571422" y="-160.0" />
+      <point x="93.21428571428578" y="1233.0" />
+      <point x="72.31006493506499" y="1233.0" />
+      <point x="72.31006493506499" y="584.0" />
+      <point x="205.560064935065" y="584.0" />
+      <point x="-60.28571428571428" y="72.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmView" target="sample.controllers2.Route">
+      <point x="-53.4375" y="-215.0" />
+      <point x="364.6262851731602" y="743.0" />
+      <point x="367.9387851731602" y="743.0" />
+      <point x="367.9387851731602" y="574.0" />
+      <point x="295.98863636363643" y="574.0" />
+      <point x="30.142857142857167" y="72.0" />
+    </edge>
+    <edge source="sample.controllers2.Route" target="sample.controllers2.TSPGene">
+      <point x="-70.33333333333331" y="-72.0" />
+      <point x="195.51244588744595" y="272.0" />
+      <point x="303.29295183982686" y="272.0" />
+      <point x="-59.0625" y="116.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithm" target="sample.controllers2.TSPGene">
+      <point x="-88.0" y="-49.5" />
+      <point x="126.81006493506499" y="564.0" />
+      <point x="149.84577922077926" y="564.0" />
+      <point x="149.84577922077926" y="262.0" />
+      <point x="279.66795183982686" y="262.0" />
+      <point x="-82.6875" y="116.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmView" target="sample.controllers2.TSPGene">
+      <point x="53.437500000000014" y="-215.0" />
+      <point x="471.5012851731602" y="723.0" />
+      <point x="400.9387851731602" y="723.0" />
+      <point x="400.9387851731602" y="282.0" />
+      <point x="374.16795183982686" y="282.0" />
+      <point x="11.8125" y="116.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithm" target="sample.controllers2.Route">
+      <point x="0.0" y="-49.5" />
+      <point x="214.810064935065" y="584.0" />
+      <point x="235.70292207792215" y="584.0" />
+      <point x="-30.14285714285711" y="72.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmController" target="sample.controllers2.hillClimbingAlgorithmView">
+      <point x="62.142857142857224" y="-160.0" />
+      <point x="279.6428571428572" y="1213.0" />
+      <point x="346.8137851731602" y="1213.0" />
+      <point x="-71.25" y="215.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmController" target="sample.controllers2.hillClimbingAlgorithm">
+      <point x="5.6843418860808015E-14" y="-160.0" />
+      <point x="217.50000000000006" y="1233.0" />
+      <point x="168.81331168831179" y="1233.0" />
+      <point x="168.81331168831179" y="743.0" />
+      <point x="181.810064935065" y="743.0" />
+      <point x="-33.0" y="49.5" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmView" target="sample.controllers2.hillClimbingAlgorithm">
+      <point x="-124.6875" y="-215.0" />
+      <point x="293.3762851731602" y="743.0" />
+      <point x="247.810064935065" y="743.0" />
+      <point x="33.0" y="49.5" />
+    </edge>
+    <edge source="sample.controllers2.TSPUtils" target="sample.controllers2.TSPGene">
+      <point x="-85.33333333333331" y="-116.0" />
+      <point x="454.1054518398269" y="272.0" />
+      <point x="397.79295183982686" y="272.0" />
+      <point x="35.4375" y="116.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmController" target="sample.controllers2.TSPUtils">
+      <point x="186.4285714285715" y="-160.0" />
+      <point x="403.9285714285715" y="1233.0" />
+      <point x="581.6607142857143" y="1233.0" />
+      <point x="581.6607142857143" y="584.0" />
+      <point x="624.7721185064936" y="584.0" />
+      <point x="85.33333333333331" y="116.0" />
+    </edge>
+    <edge source="sample.controllers2.hillClimbingAlgorithmView" target="sample.controllers2.TSPUtils">
+      <point x="89.06250000000001" y="-215.0" />
+      <point x="507.1262851731602" y="743.0" />
+      <point x="505.77536525974034" y="743.0" />
+      <point x="505.77536525974034" y="584.0" />
+      <point x="454.1054518398269" y="584.0" />
+      <point x="-85.33333333333331" y="116.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4804204993429699" x="501.92793803005725" y="792.2841367583756" />
+  <SelectedNodes>
+    <node>sample.controllers2.TSPUtils</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
